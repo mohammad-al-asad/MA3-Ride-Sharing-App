@@ -105,8 +105,3 @@ Building MA3 involved engineering resilient, real-time mobile infrastructure tai
    ```bash
    npx expo run:ios
    ```
-
-6. **Start Expo Development Server:**
-   ```bash
-   npx expo start
-   ```
