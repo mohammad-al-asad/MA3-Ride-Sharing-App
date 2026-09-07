@@ -1,4 +1,4 @@
-# MA3: Next-Gen Ride Sharing App 🚘
+# MA3: Ride Sharing App 🚘
 
 > A modern, fast, and secure cross-platform ride-hailing and driver management application built with React Native and Expo. Seamlessly connecting riders and drivers with real-time routing, instant messaging, live tracking, and frictionless payment processing.
 
